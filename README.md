@@ -15,10 +15,13 @@ TSA checkpoint travel numbers for 2020 and 2019:
 Project files:
 
 COVID19_API_Calls.ipynb
-    Contains the code for making multiple API calls to collect the CDC COVID data.
+    Contains the code for making the API call to collect the CDC COVID data.
+    Then case report date is converted to date format.
+    Then the COVID data is grouped by case report date, with a count for deaths and hospitalizations.
+    Finally, the group data is exported to a .csv file.
 
 COVID19Travel_Create_DataFrames.ipynb
-    Contains the code for creating a DataFrame from the CDC and TSA data.
+    Contains the code for combining the CDC and TSA data into a single DataFrame.
 
 COVID19Travel_Visualizations.ipynb
     Contains the code for creating the visualizations and analyzing the data.
