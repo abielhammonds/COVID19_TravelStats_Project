@@ -22,6 +22,10 @@ COVID19_API_Calls.ipynb
 
 COVID19Travel_Create_DataFrames.ipynb
     Contains the code for combining the CDC and TSA data into a single DataFrame.
+    Both types of data were called in from .csv files saved on my local machine.
+    Dates were converted from objects to date datatypes
+    TSA traveler numbers were converted from objects to floats
+    The COVID counts (# cases, #deaths, # hospitalizations per day) are integers.
 
 COVID19Travel_Visualizations.ipynb
     Contains the code for creating the visualizations and analyzing the data.
