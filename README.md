@@ -1,5 +1,5 @@
 # COVID19_TravelStats_Project
-An analysis of COVID case number trends compared with numbers of airline travellers.
+An analysis of United States COVID case number trends compared with numbers of airline travellers.
 
 # Data sources:
 
