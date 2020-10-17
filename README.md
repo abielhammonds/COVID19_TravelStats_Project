@@ -16,6 +16,8 @@ An analysis of United States COVID case number trends compared with numbers of a
     This data was copied from the TSA website and pasted into an Excel document, then saved on the local machine as a .csv file.
     
     Users wishing to reproduce the analysis will need to copy the TSA data from the website also.  
+    
+    This step is described in the Overview section of the COVID19Travel_Create_DataFrames.ipynb notebook.
 
 # Project files:
 
