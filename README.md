@@ -6,14 +6,16 @@ An analysis of United States COVID case number trends compared with numbers of a
 **COVID-19 Case Surveillance Public Use Data:**
     https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf
     
-    The data was called in using the SODA API link provided.
+    The data was imported using the SODA API link provided on the CDC website linked here.
     
     This code is saved in the notebook titled: COVID19_API_Calls.ipynb
     
 **Transportation Security Agency checkpoint travel numbers for 2020 and 2019:**
     https://www.tsa.gov/coronavirus/passenger-throughput
   
-    This data was copied into an Excel document and saved on my local machine as a .csv file
+    This data was copied from the TSA website and pasted into an Excel document, then saved on the local machine as a .csv file.
+    
+    Users wishing to reproduce the analysis will need to copy the TSA data from the website also.  
 
 # Project files:
 
