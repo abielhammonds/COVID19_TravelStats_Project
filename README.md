@@ -14,6 +14,11 @@ Transportation Security Agency checkpoint travel numbers for 2020 and 2019:
 
 # Project files:
 
+Executive_Summary.ipynb
+    Summarizes the purposes of the analysis
+    Displays each visualization with a short recap of the observations.
+    Suggests future analysis to continue to study.
+
 COVID19_API_Calls.ipynb
     Contains the code for making the API call to collect the CDC COVID data.
     Then case report date is converted to date format.
