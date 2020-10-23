@@ -21,6 +21,12 @@ An analysis of United States COVID case number trends compared with numbers of a
 
 # Project files:
 
+**COVID19_Travel_Project_Presentation.pptx**
+    
+    Presents the project questions and results in PowerPoint presentation format.
+    
+    Visualizations are included along with link to this repository.
+
 **Executive_Summary.ipynb**
 
     Summarizes the purposes of the analysis
