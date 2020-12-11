@@ -4,11 +4,15 @@ An analysis of United States COVID case number trends compared with numbers of a
 # Data sources:
 
 **COVID-19 Case Surveillance Public Use Data:**
+    The data was imported using the SODA API link provided on the CDC websites linked here.
+    
     https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf
+       
+    This code shows national case counts and is saved in the notebook titled: COVID19_API_Calls.ipynb
     
-    The data was imported using the SODA API link provided on the CDC website linked here.
+    https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
     
-    This code is saved in the notebook titled: COVID19_API_Calls.ipynb
+    This code shows case counts by state and is saved in the notebook titled: COVID19_State_Data_API_Calls.ipynb
     
 **Transportation Security Agency checkpoint travel numbers for 2020 and 2019:**
     https://www.tsa.gov/coronavirus/passenger-throughput
